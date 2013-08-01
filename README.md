@@ -21,4 +21,4 @@ This is the Windows binary of the `C++` sub-routines for the `R` package `WRS` f
 
 
 
-###For the `Mac` binary and examples, go to this link: (https://github.com/mrxiaohe/WRScpp)
+###For the `Mac` binary and examples, go to this link: https://github.com/mrxiaohe/WRScpp
