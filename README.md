@@ -1,7 +1,7 @@
 WRScppWin
 =========
 
-This is a Windows binary of the `C++` sub-routines for the `R` package `WRS` for robust statistic methods.
+This is the Windows binary of the `C++` sub-routines for the `R` package `WRS` for robust statistic methods.
 
 ###[Installation]
 
@@ -21,4 +21,4 @@ This is a Windows binary of the `C++` sub-routines for the `R` package `WRS` for
 
 
 
-##For the Mac binary and examples, go to this link: (https://github.com/mrxiaohe/WRScpp)
+###For the `Mac` binary and examples, go to this link: (https://github.com/mrxiaohe/WRScpp)
